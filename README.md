@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Zy / 你好，我是Zy
 
-<!--
-**Azurboy/Azurboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🇨🇳 中文版
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 社会科学专业学生｜AI 工具爱好者｜PKU&USTC｜非理工科学生（意思是如果代码有问题请轻喷Orz）
+💡 当前关注方向：AI 辅助科研实践|AI产品|一切与AI有关的事情！！AI真的是一个每天都会让人兴奋的东西
+
+**项目经历**
+- 基于随机森林的播客收听时间预测（本人的第一次kaggle比赛）
+- 对《人民日报》的LDA分析
+- 仍待补充
+
+---
+
+## 🇬🇧 English
+
+🎓 Social science student | AI enthusiast | PKU & USTC | not STEM Student⭕️
+💡 Currently exploring: AI-assisted research｜AI Product｜Anything related AI！
+
+**Projects**
+- Podcast listening time prediction using RandomForest（Kaggle game）
+- LDA Analysis about Chinese daily
+- ...
+
